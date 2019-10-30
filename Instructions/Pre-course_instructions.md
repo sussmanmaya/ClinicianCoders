@@ -55,13 +55,12 @@ Spreadsheets are useful for data entry and data organization, and some subsettin
 For this lesson, if you don't have a spreadsheet program already, you can use [LibreOffice](https://www.libreoffice.org/). It's a free, open source spreadsheet program.
 
 ### 4. Join our group on Slack
-Slack is a geeky version of WhatsApp, but much better for coding and collaborating. We will use it to share files. You can use it chat, to ask questions, share material, and provide feedback. You should recieve an email invite to our group before the course.
+Slack is a geeky version of WhatsApp, but much better for coding and collaborating. We will use it to share files. You can use it to chat, to ask questions, share material, and provide feedback. You should recieve an email invite to our group before the course.
 
 ### 5. Decide on the dataset you want to use for practice.
-Workshop 7 of this course allows you to practice on your own data. You can either come in with your own dataset, and let us help you get started, or you can use the public version of the CCHIC dataset after signing the data sharing agreement. 
+The course relies on a synthetic dataset in a simillar format to the CCHIC dataset, which is a collaborative Intensive Care database. *This is not real patient data.* It has been generated to look like real patient data. All candidates will have access to this. 
 
-The rest of the course relies on a small anonymised dataset in a simillar format to the CCHIC one. All candidates will have access to this.
-
+Workshop 7 of this course allows you to practice on your own data. You can either come in with your own dataset, and let us help you get started, or you can use the synthetic dataset. 
 
 If you have problems with installing software, there is a small amount of setup time allocated for this at the beginning of the course. Bring your laptop, and we will be happy to help.
 
